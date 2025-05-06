@@ -1,0 +1,6 @@
+{ "SOURCE-DIR" : ["sources", "../../dev-files/common-sources"],
+
+  "CPU-MHZ" : 180,
+
+  "SECTION-SCHEME" : "disableInterrupt"
+}
